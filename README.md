@@ -1,4 +1,7 @@
-### I'm Iasmin, be very welcome ❤️
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Olá!+Meu+nome+é+Iasmin.❤️;Seja+bem+vindo!😁" alt="Typing SVG" />
+</p>
 
  <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iasmincost134&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
