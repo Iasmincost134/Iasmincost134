@@ -88,13 +88,10 @@
 </div>
 </details>
 
-<br/>
-
-  
   <div align="center">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Olá!+Meu+nome+é+Iasmin👩🏻‍💻;Seja+bem+vindo!😁" alt="Typing SVG" /> </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Obrigada!+pela+visita💜;Volte+sempre+para+explorar+mais!🚀;Até+a+próxima" alt="Typing SVG" /> </a>
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/Iasmincost134}/count.svg" /></p> 
 <br>
